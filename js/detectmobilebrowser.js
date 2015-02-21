@@ -1,5 +1,5 @@
 function detectmob() {
-    //alert('pass');
+    alert('pass');
     if (navigator.userAgent.match(/Android/i)
             || navigator.userAgent.match(/webOS/i)
             || navigator.userAgent.match(/iPhone/i)

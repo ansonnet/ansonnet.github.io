@@ -16,9 +16,7 @@ function detectmob() {
 }
 
 if (detectmob()) {
-//    alert("is mobile");
-    window.location = 'http://anson-liang.github.io/m/';
+    window.location = 'http://yiyanliang.github.io/m/';
 } else {
 //    window.location = 'http://anson.gweb.io';
-//    alert("not mobile");
 }

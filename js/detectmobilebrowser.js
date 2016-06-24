@@ -16,7 +16,7 @@ function detectmob() {
 }
 
 if (detectmob()) {
-    window.location = 'http://yiyanliang.github.io/m/';
+    window.location = 'http://ansonnet.github.io/m/';
 } else {
 //    window.location = 'http://anson.gweb.io';
 }
